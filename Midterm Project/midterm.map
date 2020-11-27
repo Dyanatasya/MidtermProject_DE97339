@@ -1,0 +1,114 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Fri Nov 27 17:07:43 2020
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000004
+                   .org_2       code   0x000008    program   0x000002
+                   .org_3       code   0x000018    program   0x0003c2
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000003      
+                            0x000008    0x000009      
+                            0x000018    0x0003d9      
+            968 out of 33048 program addresses used, program memory utilization is 2%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    InKey   0x000248    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                     MyID   0x0001ce    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                    NdRow   0x00013e    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                   NeatIt   0x000258    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                    StRow   0x000134    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                  WriteC1   0x0000c2    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                  WriteCm   0x0000fa    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                  WriteD1   0x0000d0    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                  WriteDt   0x000108    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                    again   0x000054    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                   again1   0x000050    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                   again2   0x00001c    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                   again3   0x000020    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                   button   0x000228    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                    check   0x00022e    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                   check1   0x00023a    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                   check2   0x000246    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                  confLC1   0x0000de    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                  confLCD   0x000116    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                    delay   0x00004c    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                   delay1   0x000018    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                     exam   0x0003d0    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                     free   0x0003b6    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                   keypad   0x00034e    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                   myname   0x00015c    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                     num0   0x000276    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                     num1   0x000288    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                     num2   0x00029a    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                     num3   0x0002ac    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                     num4   0x0002be    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                     num5   0x0002d0    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                     num6   0x0002e2    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                     num7   0x0002f4    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                     num8   0x000306    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                     num9   0x000318    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                  numstar   0x00033c    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                   numtag   0x00032a    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                  spacin1   0x000148    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                  spacing   0x000152    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                    start   0x0003c6    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   delay1   0x000018    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                   again2   0x00001c    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                   again3   0x000020    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                    delay   0x00004c    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                   again1   0x000050    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                    again   0x000054    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                  WriteC1   0x0000c2    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                  WriteD1   0x0000d0    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                  confLC1   0x0000de    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                  WriteCm   0x0000fa    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                  WriteDt   0x000108    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                  confLCD   0x000116    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                    StRow   0x000134    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                    NdRow   0x00013e    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                  spacin1   0x000148    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                  spacing   0x000152    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                   myname   0x00015c    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                     MyID   0x0001ce    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                   button   0x000228    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                    check   0x00022e    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                   check1   0x00023a    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                   check2   0x000246    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                    InKey   0x000248    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                   NeatIt   0x000258    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                     num0   0x000276    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                     num1   0x000288    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                     num2   0x00029a    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                     num3   0x0002ac    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                     num4   0x0002be    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                     num5   0x0002d0    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                     num6   0x0002e2    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                     num7   0x0002f4    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                     num8   0x000306    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                     num9   0x000318    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                   numtag   0x00032a    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                  numstar   0x00033c    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                   keypad   0x00034e    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                     free   0x0003b6    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                    start   0x0003c6    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+                     exam   0x0003d0    program     static C:\Users\win10\Documents\Midterm Project\midterm.asm
+
+
